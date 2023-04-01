@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.77ab03a8.css",
-    "main.js": "/static/js/main.b8a56e0f.js",
+    "main.css": "/static/css/main.678bddce.css",
+    "main.js": "/static/js/main.844a40a5.js",
     "static/media/videobook.jpg": "/static/media/videobook.70e512e5d7aa50151b77.jpg",
     "static/media/quizz.jpg": "/static/media/quizz.3047e9bb3d50482213bb.jpg",
     "static/media/lib.png": "/static/media/lib.2cae453ceadf97eaa091.png",
@@ -11,16 +11,16 @@
     "static/media/audio1.png": "/static/media/audio1.1ec1e9c5060694bdec72.png",
     "static/media/vidio1.png": "/static/media/vidio1.d3a47af01f2b3fd52c1e.png",
     "static/media/audiobook.jpg": "/static/media/audiobook.faba41f9cbd0ff823b20.jpg",
+    "static/media/logo-8.png": "/static/media/logo-8.ce16b5c527b6f0aa013a.png",
     "static/media/mybook.jpg": "/static/media/mybook.4b05bbf5cdc477dcf846.jpg",
-    "static/media/logo.png": "/static/media/logo.9fd6caf97e7538a81b23.png",
     "static/media/audiobook.png": "/static/media/audiobook.6fe06bd5ad49f7b0ee3f.png",
     "static/media/book.png": "/static/media/book.3a336b5e01063f1c3a58.png",
     "index.html": "/index.html",
-    "main.77ab03a8.css.map": "/static/css/main.77ab03a8.css.map",
-    "main.b8a56e0f.js.map": "/static/js/main.b8a56e0f.js.map"
+    "main.678bddce.css.map": "/static/css/main.678bddce.css.map",
+    "main.844a40a5.js.map": "/static/js/main.844a40a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.77ab03a8.css",
-    "static/js/main.b8a56e0f.js"
+    "static/css/main.678bddce.css",
+    "static/js/main.844a40a5.js"
   ]
 }
